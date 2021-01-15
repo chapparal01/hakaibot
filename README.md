@@ -23,7 +23,6 @@ Prepare as ferramentas e materiais.
 > armazenamento adequado
 > aplicativo whatsapp
 > aplicativo termux
-> café + cigarros KKKK;-;
 ```
 INSTALAÇÃO:
 
@@ -32,15 +31,15 @@ INSTALAÇÃO:
 > termux-setup-storage
 > pkg install git && pkg install tesseract && pkg install wget && pkg install ffmpeg && pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/HigorOlive/d4rk
-> cd d4rk
+> git clone https://github.com/chappar01/hakaibot
+> cd hakaibot
 > npm i -g cwebp && npm i node-tesseract-ocr && npm i -g ytdl && npm i  && npm i got && node index js
 > Basta escanear o código qr e ... pronto
 ```
 
 ## CARACTERÍSTICAS  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29px">
 
-|HAKAI DAS      |               Característica        |
+|HAKAI bot      |               Característica        |
 | :-----------: | :------------------------------: |
 |       ✅       | Criador de adesivos                |
 |       ✅       | Covid (Novo)                       |
@@ -70,7 +69,7 @@ INSTALAÇÃO:
 |       ✅       | 18+.                             |
 |       ✅       | MAIS recursos em breve 🍂        |
 
-Hakai Domina 🐦❤️
+Hakai das figurinhas 🐦❤️
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
 
